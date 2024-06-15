@@ -1,0 +1,282 @@
+.top h1{
+	font-weight: bold;
+	margin-top:30px;
+	margin-left:30px;
+	display:inline-block;
+	font-size:50px;
+}
+
+
+.top p{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top:-30px;
+	margin-left:30px;
+	margin-bottom: 30px;
+	color:lightblue;
+	
+}
+
+#contact{
+	margin-top:-20px;
+	margin-left:30px;
+}
+
+#contact span{
+	font-size:18px;
+	font-weight:bold;
+}
+
+#email{
+	margin-left:450px;
+	color:black;
+}
+
+#num{
+	color:black;
+}
+
+#linkloc{
+	margin-top:-20px;
+	margin-left:30px;
+	display:inline-block;
+}
+
+
+
+#linkloc p{
+	display:inline-block;
+	font-weight:bold;
+
+}
+
+#sy{
+	margin-left: 160px;
+}
+
+.hrmain{
+	width:660px;
+	margin-left:30px;
+	size:12px;
+	height:4px;
+	background:black;
+
+
+}
+
+#sum{
+	margin-left:30px;
+	margin-bottom:-10px;
+}
+
+#sum1{
+	margin-left:30px;
+	width:660px;
+}
+
+#pro{
+		margin-left:30px;
+	margin-bottom:-10px;
+}
+
+#pname{
+			margin-left:30px;
+	margin-bottom:-10px;
+	margin-top:-4px;
+	font-weight: bold;
+
+}
+
+#date{
+	margin-left:30px;
+	margin-top:8px;
+}
+
+#content1{
+	margin-left:30px;
+	width:660px;
+	margin-top:-10px;
+}
+
+#afc1{
+	height:2px;
+	size:12px;
+	width:660px;
+	margin-left:30px;
+	background: black;
+	margin-top: -17px;
+}
+
+#lang{
+	margin-left:30px;
+	margin-bottom:-10px;
+
+}
+
+#lang1{
+	margin-left:30px;
+	margin-bottom:-10px;
+	margin-top:-4px;
+}
+#lang2{
+	margin-left:30px;
+	margin-bottom:-10px;
+	margin-top:12px;
+}
+#ach{
+	margin-left:30px;
+	margin-bottom:-10px;
+}
+#ach1{
+	margin-left:30px;
+	margin-bottom:-10px;
+	font-weight:bold;
+
+}
+
+
+main{
+	width:70%;
+	display:inline-block;
+}
+
+aside{
+	margin-top: 195px;
+	display: inline-block;
+	width:21%;
+	margin-left: -300px;
+
+	vertical-align: top;
+
+
+}
+
+.l1{
+	display:inline-block;
+}
+.l2{
+	display: inline-block;
+	margin-top:-6px;
+}
+
+.hraside{
+	width:320px;
+	margin-left:0px;
+	size:12px;
+	height:4px;
+	background:black;
+	margin-top:-14px;
+}
+
+.asidef{
+	margin-left: 30px;
+}
+
+.hrexpr{
+	width:320px;
+	margin-left:30px;
+	size:12px;
+	height:4px;
+	background:black;
+	margin-top:-14px;
+}
+
+#ex{
+	margin-left:30px;
+	margin-top:2px;
+	font-weight: bold;
+	font-size: 18px;
+}
+#comps{
+	margin-left:30px;
+	margin-top:-20px;
+
+}
+#dates{
+	margin-left:30px;
+	margin-top:-20px;
+	font-size: 12px;
+
+}
+
+.hrexpr1{
+	margin-left:30px;
+	background:black;
+	margin-top:2px;
+	width:320px;
+
+}
+
+#due{
+	margin-top:-15px;
+	margin-left:30px;
+
+}
+
+#cname{
+	margin-left:30px;
+	margin-top:-20px;
+	width:250px;
+
+}
+
+.vertical {
+    border-left: 3px solid black;
+    height: 63px;
+    position: absolute;
+    right: 500px;
+    margin-top: -61px; 
+     }
+
+#cgpa{
+	
+    position: absolute;
+    right: 432px;
+    margin-top: -46px;
+}
+
+#cnums{
+	position: absolute;
+    right: 432px;
+    margin-top: -30px;
+}
+
+#per{
+	 position: absolute;
+    right: 421px;
+    margin-top: -46px;
+}
+
+#link a{
+	text-decoration: none;
+	color:black;
+}
+
+#email a{
+	text-decoration: none;
+	color:black;
+}
+
+#name:hover {
+	color: grey;
+}
+
+#post:hover{
+	color:darkblue;
+}
+
+#gitlink{
+	text-decoration: none;
+	top-margin:2px;
+}
+
+#gitlink:hover{
+	color:rgb(143, 12, 237);
+}
+
+.Myimg{
+	margin-top:-150px;
+	margin-left:880px;
+	width:"50px";
+	height:"60px";
+}
